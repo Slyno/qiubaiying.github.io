@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·BY",
-        href: "http://www.jianshu.com"
+        title: "微博",
+        href: "http://www.weibo.com/2756217235"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Twitter",
+        href: "https://twitter.com/onesky8023"
     }   
 ]
 
